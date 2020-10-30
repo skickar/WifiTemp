@@ -3,7 +3,11 @@ A project to use an ESP8266 to broadcast the current temperature as a Wi-Fi netw
 
 What you need for this project:
 A D1 Mini - https://www.amazon.com/Makerfocus-NodeMcu-Development-ESP8266-Compatible/dp/B01N3P763C
+
+
 A BMP180 sensor shield for the D1 Mini - https://www.amazon.com/ACROBOTIC-Temperature-Barometric-Raspberry-Altimeter/dp/B07G2XDS8K/
+
+
 
 Step 1)
 Solder the pins on each board
