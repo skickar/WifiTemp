@@ -7,9 +7,6 @@ A D1 Mini - https://www.amazon.com/Makerfocus-NodeMcu-Development-ESP8266-Compat
 
 A BMP180 sensor shield for the D1 Mini - https://www.amazon.com/ACROBOTIC-Temperature-Barometric-Raspberry-Altimeter/dp/B07G2XDS8K/
 
-![Hookup](https://i.imgur.com/JdSXPK3.jpg)
-Format: ![Alt Text](url)
-
 Step 1)
 Solder the pins on each board
 
@@ -25,3 +22,7 @@ Power the D1 Mini outside, make sure the sensor is exposed to the outside and is
 If the temperature is 5-10 degrees too high, it's probably too close to the D1 mini, or in an enclosed space that's gathering heat.
 
 By Brandon Paiz and Kody Kinzie
+
+![Hookup](https://i.imgur.com/JdSXPK3.jpg)
+
+![Hookup](https://i.imgur.com/gehbDHB.jpg)
